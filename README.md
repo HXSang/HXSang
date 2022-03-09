@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HXSang
-- 👀 I’m interested in Mobile App Deverloper
+- 👀 I’m interested in 
 - 🌱 I’m currently learning INDUSTRIAL UNIVERSITY OF HOCHIMINH CITY
 - 💞️ I’m looking to collaborate :
 - 📫 How to reach me ...
