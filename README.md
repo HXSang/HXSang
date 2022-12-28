@@ -1,26 +1,20 @@
 <h1 align="center">Xin chào 👋, tôi là Hoa Xuân Sang</h1>
 <h3 align="center">Một nhà phát triển giao diện người dùng đầy nhiệt huyết đến từ Việt Nam</h3>
 
-<p align="left"><img src ="https://komarev.com/ghpvc/?username=hxsang&label=Profile%20views&color=0e75b6&style=flat" alt="hxsang" /></p>
-
-<p align="left"><a href="https ://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hxsang" alt="hxsang" />< /a> </p>
+<p align="left"><a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hxsang" alt="hxsang" /></a> </p>
 
 - 🔭 Tôi hiện đang làm việc trên [Bloody](https://github.com/HXSang/bloody)
 
-- 🌱 Tôi hiện đang học **Flutter, React, Java, ...* *
+- 🌱 Tôi hiện đang học **Flutter, React, Java, . ..**
 
 - 👨‍💻 Tất cả các dự án của tôi đều có tại [https://github.com/HXSang](https://github.com/HXSang)
 
-- 📫 Cách liên hệ với tôi **sanghoaxuan09@gmail.com**
-
-### Bài đăng trên blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 Cách liên hệ với tôi **sanghoaxuan09@gmail.com **
 
 <h3 align="left">Kết nối với tôi:</h3>
-<p align="left ">
-<a href="https://dev.to/hxsang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/devto.svg" alt="hxsang" height="30" width="40" /></a>
-<a href="https://fb.com /sangxuan9903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook .svg" alt="sangxuan9903" height="30" width="40" /></a>
+<p align="left">
+<a href="https://dev.to/hxsang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/devto.svg" alt="hxsang" height="30" width="40" /></a>
+<a href="https://fb.com/sangxuan9903 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg " alt="sangxuan9903" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Ngôn ngữ và Công cụ:</h3>
