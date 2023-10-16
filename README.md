@@ -1,8 +1,6 @@
 <h1 align="center">Xin chào 👋, tôi là Hoa Xuân Sang</h1>
 <h3 align="center">Một nhà phát triển giao diện người dùng đầy nhiệt huyết đến từ Việt Nam</h3>
 
-<p align="left"><a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hxsang" alt="hxsang" /></a> </p>
-
 - 🔭 Tôi hiện đang làm việc trên [Bloody](https://github.com/HXSang/bloody)
 
 - 🌱 Tôi hiện đang học **Flutter, React, Java, . ..**
